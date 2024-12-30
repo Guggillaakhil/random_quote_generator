@@ -1,0 +1,18 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.n{
+  background-color: black;
+}
+.quote-card_header::before{
+    position: relative;
+    content: '';
+    width: 30%;
+    height: 2px;
+    background-color:aliceblue;
+}
+.btn-success{
+   align-items: center;
+}
